@@ -7,7 +7,7 @@
 *.toc
 *.lof
 *.lot
-
+*.zip
 
 # bibliography related
 *-blx.bib
@@ -45,3 +45,4 @@ infographics/Font-Awesome-SVG-PNG/*
 .idea/inspectionProfiles/Project_Default.xml
 
 out/
+.zip
